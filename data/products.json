@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Lego Helmet",
+    "description": "Funny bike helmet.",
+    "image": "https://i.imgur.com/HsYG8sW.jpg",
+    "price": 19900
+  },
+  {
+    "name": "Frog Shirt",
+    "description": "Keep your eyes on it.",
+    "image": "https://i.imgur.com/XsiqhXd.jpg",
+    "price": 2999
+  },
+  {
+    "name": "Red Bull Ironman Mask",
+    "description": "Makes you fly.",
+    "image": "https://i.imgur.com/ckLN2Ea.jpeg",
+    "price": 99999
+  }
+]

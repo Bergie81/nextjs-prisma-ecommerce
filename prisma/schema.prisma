@@ -4,6 +4,8 @@
 // npx prisma migrate dev - to create local development database
 // npx prisma studio - visual interface for database
 
+// Data from data/products.json was added manually to the database via Prisma Studio
+
 datasource db {
   provider = "sqlite"
   url      = "file:./dev.db"
