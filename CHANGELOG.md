@@ -26,6 +26,9 @@ Patch:
 
 <!-- "In this commit I ..." -->
 
+## "Create React components"
+##### 004 - 01.08.2022, v0.1.3
+
 ## "Add product data manually to the database"
 ##### 003 - 31.07.2022, v0.1.2
 
